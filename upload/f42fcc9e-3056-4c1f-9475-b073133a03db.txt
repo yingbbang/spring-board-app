@@ -1,0 +1,18 @@
+2025/08/01 오후수업안내
+
+ - JSP CRUD 실습하기
+ - ch05 프로젝트
+     ㄴ user1 ~ user7 실습하기
+
+ - ch09 프로젝트
+     ㄴ user1 ~ user7 실습하기
+
+ - ch10 프로젝트
+     ㄴ bank : CUSTOMER, ACCOUNT 테이블 CRUD
+     ㄴ college : STUDENT, COURSE 테이블 CRUD
+     ㄴ library : MEMBER, BOOK 테이블 CRUD
+     ㄴ shop : CUSTOMER, PRODUCT 테이블 CRUD
+	
+ - 궁금한 내용 질문 하세요.
+ - 수업시간, 쉬는시간 잘 지켜주세요.
+ 
